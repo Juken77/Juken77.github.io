@@ -3,8 +3,10 @@ layout: post
 title: Furi
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+LETS TEST IT OUT 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I JUST WANT TO SHOW AN IMAGE....
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_99a46681e5cbf7078be1e8cb22c7b885b6dcbc54.jpg?t=1712750952
+
+lets see...
